@@ -1,0 +1,9 @@
+{
+  "name": "my-serverless-function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@vercel/postgres": "^0.13.2"
+  }
+}
